@@ -34,6 +34,7 @@ try:
         hasil = pickle.loads(m_header)
         
 
+
 except KeyboardInterrupt:
     print "Good bye"
     client.close()
